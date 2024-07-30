@@ -1,12 +1,11 @@
 body {
     font-family: 'Roboto Mono',monospace;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+    text-align:center;
     background-image: url('https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-04-aluraflix-e-filmes.png');
-    background-color: #23232e;
+    background-color: #000000;
     background-size: cover;
-    height: 8vh;
+    background-position: center top;
+    background-repeat: no-repeat;
 }
 
 a:hover {
