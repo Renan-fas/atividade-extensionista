@@ -30,19 +30,19 @@ header{
     padding-top: 1rem;    
 }
 
-.cabeçalho-link{
+.cabecalho-link{
     display: flex;
     gap: 3rem;
     font-weight: 300;
     cursor: pointer;  
 }
 
-.cabeçalho-link a{
+.cabecalho-link a{
     color: #fff;
     font-size: 12px;
 }
 
-.cabeçalho-link a:hover{
+.cabecalho-link a:hover{
     color:  #2ecc71;
     transition: 0.3s all;
 }
