@@ -80,6 +80,11 @@ button:hover{
     transition: 0.5s;
 }
 
+.container-text2{
+    padding: 150px 0 0 130px;
+    text-align: center;
+}
+
 .container-text{
     padding: 150px 0 0 130px;
 }
