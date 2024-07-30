@@ -8,12 +8,6 @@ body {
     background-repeat: no-repeat;
 }
 
-a:hover {
-    font-size: 24px';
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
-
 .container {
     text-align: center;
     padding: 20px;
