@@ -23,13 +23,26 @@ header > .interface {
     justify-content: space-between; 
 }
 
-.page-logo {
-    width: 200px;
+header a {
+    color: #fff;
+    text-decoration: none;
 }
 
-.uninter-logo {
-    width: 160px;
-    position: absolute;
-    top: 40px;
-    right:40px;
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 40px;
+}
+
+header .btn-contato button {
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #fff;
+    border: 0;
+    border-radius: 30px;
+    cursos: pointer;
 }
