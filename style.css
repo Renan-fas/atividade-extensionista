@@ -49,7 +49,7 @@ header{
     transition: 0.3s all;
 }
 
-.logo i{
+.logo {
     height: 80px;
     width: 80px;
     background: transparent;
