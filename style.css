@@ -32,7 +32,6 @@ header{
 
 .cabecalho-link{
     display: flex;
-    text-align: left;
     gap: 3rem;
     font-weight: 300;
     cursor: pointer;  
