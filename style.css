@@ -50,16 +50,16 @@ header{
 }
 
 .logo {
-    height: 80px;
-    width: 80px;
+    --height: 80px;
+    --width: 80px;
     background: transparent;
-    border: 1px solid #F08902;
-    color: #F08902;
-    border-radius: 50%;
+    --border: 1px solid #F08902;
+    --color: #F08902;
+    --border-radius: 50%;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 13px;
+    --font-size: 13px;
     cursor: pointer;
 }
 
