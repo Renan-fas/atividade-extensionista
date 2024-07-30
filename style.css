@@ -50,8 +50,9 @@ header{
 }
 
 .logo i{
-    height: 40px;
-    width: 40px;
+    background: src="https://www.uninter.com/wp-content/webp-express/webp-images/uploads/2016/11/logo-uninter.png.webp";
+    height: 47px;
+    width: 199px;
     background: transparent;
     border: 1px solid #F08902;
     color: #F08902;
