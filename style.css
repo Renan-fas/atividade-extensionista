@@ -115,10 +115,6 @@ button:hover{
     margin-top: 5px;
 }
 
-.btn{
-    margin-top: 15px;
-}
-
 @media screen and (max-width:600px){
     .cabecalho-link {
         display: none;
